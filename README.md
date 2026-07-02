@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on web development projects  <br>🤝 I’m looking to collaborate on open-source projects  <br>🌱 I’m currently learning advanced JavaScript and backend development  <br>💬 Ask me about HTML, CSS, Reeact JS, JavaScript, and web development  <br>⚡ Fun fact: I love building things for the web
+ I'm currently working on full-stack MERN development projects <br> I'm looking to collaborate on open-source projects <br> I'm currently learning advanced backend architecture and real-time systems <br> Ask me about React, Node.js, Express, MongoDB, Socket.IO, and JWT/OAuth <br> Fun fact: I love building things for the web
 
 
 ## 🌐 Socials:
